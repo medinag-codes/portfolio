@@ -1,11 +1,8 @@
-# portfolio
-
-# My Awesome Project
+# My Portfolio
 This is my current Software Engineering Portfolio. It displays projects that I am proud of an has a section for those interested in my work to send me a message. 
 
 **Link to project:** medinageyer.com
-
-![alt tag](medinageyer.netlify.app)
+![My Portfolio](https://github.com/user-attachments/assets/d034a54d-5201-4481-978d-8592d3fa3907)
 
 ## How It's Made:
 
